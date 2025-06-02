@@ -37,7 +37,7 @@ const Menu = () => {
             <Nav.Link href="#estadisticas" className="nav-link-custom">
               Estadisticas
             </Nav.Link>
-            <Nav.Link href="#" className="nav-link-custom">
+            <Nav.Link href="#galeria" className="nav-link-custom">
               Galeria
             </Nav.Link>
           </Nav>
